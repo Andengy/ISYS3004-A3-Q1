@@ -5,3 +5,4 @@
 
 # Website for creating validation text
 # https://www.w3schools.com/js/js_validation.asp 
+# https://www.w3resource.com/javascript/form/email-validation.php
