@@ -12,12 +12,17 @@
             <h1>Welcome to the Online Learning Platform</h1>
         </header>
 
-<form action="action_page.php">
+<form id="reistrationForm">
     <div class="container">
       <h1>Register</h1>
       <p>Please fill in this form to create an account.</p>
       <hr>
-  
+    
+      <section>
+        <label for="firstName">First Name</label>
+        <input type="text" id="firstName" name="firstName" required>
+    </section>
+
       <label for="email"><b>Email</b></label>
       <input type="text" placeholder="Enter Email" name="email" id="email" required>
   
